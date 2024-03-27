@@ -9,8 +9,6 @@ Before running this program, ensure you have the following prerequisites:
 - Python 3 installed
 - Latest version of Django in your machine.
 - `requests` library installed (can be installed via `pip install requests`)
-- Create a file called `localkeys.py` in the same directory as the main code file.
-     This file will contain the API key for the OpenWeatherMap API. The API key is stored in the variable `API_KEY`.
 - An API key from OpenWeatherMap. You can sign up for a free account at [OpenWeatherMap](https://openweathermap.org/) and obtain an API key.
 
 
