@@ -70,7 +70,7 @@ It also changes the background image according to the weather and time of the da
 - Saksham Kumar ([Polymath-Saksh](https://github.com/Polymath-Saksh))
 - Aloukik Joshi ([aloukikjoshi](https://github.com/aloukikjoshi))
 - Nihal Pandey ([NihalPandey5060](https://github.com/NihalPandey5060))
-- Ankit Raj([](https://github.com/ankitraj5670))
+- Ankit Raj([ankitraj5670](https://github.com/ankitraj5670))
 
   
 ## License
