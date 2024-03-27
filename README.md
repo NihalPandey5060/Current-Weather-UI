@@ -69,8 +69,10 @@ It also changes the background image according to the weather and time of the da
 ## Contributing Authors
 - Saksham Kumar ([Polymath-Saksh](https://github.com/Polymath-Saksh))
 - Aloukik Joshi ([aloukikjoshi](https://github.com/aloukikjoshi))
-- Nihal Pandey ([neurotoxin5060](https://github.com/neurotoxin5060))
-- Ankit
+- Nihal Pandey ([NihalPandey5060](https://github.com/NihalPandey5060))
+- Ankit Raj([](https://github.com/ankitraj5670))
+
+  
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
