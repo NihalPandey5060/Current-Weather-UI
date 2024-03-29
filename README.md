@@ -55,13 +55,6 @@ It also changes the background image according to the weather and time of the da
 - The program uses the OpenWeatherMap API to retrieve the current weather of a city.
 - it will display live weather location when you click refresh icon beside search box
 
-## Architectural Diagram 
-
-![architecture diagram]()
-
-
-
-
 
 
 ## Contributing Authors
